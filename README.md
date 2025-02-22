@@ -11,7 +11,7 @@ These repositories are created and used by the following entities:
 - [@Uday N. Chakraborty](https://www.github.com/uday-nc)
 - [@G K Prudhvi Raj](https://www.github.com/PrudhviRajGK)
 - [@Archi Kanungo](https://www.github.com/archiik04)
-- [@Aditya Vishwakarma](https://www.github.com/XR-KIIT)
+- [@Aditya Vishwakarma](https://github.com/adi-1108)
 
 ## Tech Stack
 
@@ -45,10 +45,10 @@ cd project-name
 #### Alternative Setup (Command Line)
 ```bash
 # On Windows
-"C:\Program Files\Unity\Hub\Editor\2022.3.17f1\Editor\Unity.exe" -projectPath "C:\path\to\cloned\repo"
+"C:\Program Files\Unity\Hub\Editor\2022.3.23f1\Editor\Unity.exe" -projectPath "C:\path\to\cloned\repo"
 
 # On macOS
-/Applications/Unity/Hub/Editor/2022.3.17f1/Unity.app/Contents/MacOS/Unity -projectPath /path/to/cloned/repo
+/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/MacOS/Unity -projectPath /path/to/cloned/repo
 ```
 
 #### Common Issues
@@ -72,10 +72,10 @@ cd project-name
 #### Command Line Setup
 ```bash
 # Generate project files (Windows)
-"C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="C:\path\to\cloned\repo\ProjectName.uproject" -game -engine
+"C:\Program Files\Epic Games\UE_5.4\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -projectfiles -project="C:\path\to\cloned\repo\ProjectName.uproject" -game -engine
 
 # Launch project (Windows)
-"C:\Program Files\Epic Games\UE_5.2\Engine\Binaries\Win64\UnrealEditor.exe" "C:\path\to\cloned\repo\ProjectName.uproject"
+"C:\Program Files\Epic Games\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "C:\path\to\cloned\repo\ProjectName.uproject"
 
 # Launch project (macOS)
 open /path/to/cloned/repo/ProjectName.uproject
@@ -92,7 +92,7 @@ git lfs pull
 If C++ code exists:
 ```bash
 # Windows
-"C:\Program Files\Epic Games\UE_5.2\Engine\Build\BatchFiles\Build.bat" ProjectNameEditor Win64 Development "C:\path\to\cloned\repo\ProjectName.uproject"
+"C:\Program Files\Epic Games\UE_5.4\Engine\Build\BatchFiles\Build.bat" ProjectNameEditor Win64 Development "C:\path\to\cloned\repo\ProjectName.uproject"
 
 # macOS/Linux
 /path/to/UE_5.2/Engine/Build/BatchFiles/Mac/Build.sh ProjectNameEditor Mac Development /path/to/cloned/repo/ProjectName.uproject
@@ -116,7 +116,7 @@ cd project-name
 #### Command Line Launch
 ```bash
 # Windows
-"C:\Program Files\Godot\Godot_v4.2.exe" --path "C:\path\to\cloned\repo"
+"C:\Program Files\Godot\Godot_v4.3.exe" --path "C:\path\to\cloned\repo"
 
 # macOS
 /Applications/Godot.app/Contents/MacOS/Godot --path /path/to/cloned/repo
@@ -156,4 +156,5 @@ Please adhere to all the project's `code of conduct`.
  - [MLSA KIIT Chapter](https://mlsakiit.com/)
  - [Unity Engine](https://unity.com/)
  - [Unreal Engine](https://www.unrealengine.com/en-US)
+ - [Godot Engine](https://godotengine.org/)
 
