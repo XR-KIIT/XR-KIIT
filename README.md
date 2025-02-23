@@ -12,6 +12,7 @@ These repositories are created and used by the following entities:
 - [@G K Prudhvi Raj](https://www.github.com/PrudhviRajGK)
 - [@Archi Kanungo](https://www.github.com/archiik04)
 - [@Aditya Vishwakarma](https://github.com/adi-1108)
+- [@Aayush Bansal](https://github.com/Aayush0612)
 
 ## Tech Stack
 
@@ -142,13 +143,6 @@ If assets fail to import:
 # Force reimport all resources
 godot --path /path/to/cloned/repo --reimport-all
 ```
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to all the project's `code of conduct`.
 
 
 ## Acknowledgements
